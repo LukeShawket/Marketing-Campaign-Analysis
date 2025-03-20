@@ -36,7 +36,7 @@ Replace NULL values in the Income column with 0 to standardize the dataset.
 * Output:    
   ![image](https://github.com/user-attachments/assets/7fc09576-a13b-4c1a-b7eb-0504b9d3a30e)     
 This step ensures consistency in the Income column for analysis.
-# Key Insights and Learnings
+# Key Insights
 * Duplicates can skew analysis, so identifying and addressing them is critical.
 
 * Verifying data integrity ensures that all IDs are correctly formatted.
