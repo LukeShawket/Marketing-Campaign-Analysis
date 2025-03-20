@@ -30,10 +30,10 @@ Count rows where the Income field is missing data.
 This step ensures no critical fields are left incomplete.
 # Update Null Values
 Replace NULL values in the Income column with 0 to standardize the dataset.    
-* Input:
-  ![image](https://github.com/user-attachments/assets/36962564-d34c-432b-8b29-31cbbe000d7f)
-* Output:
-  ![image](https://github.com/user-attachments/assets/7fc09576-a13b-4c1a-b7eb-0504b9d3a30e)
+* Input:    
+  ![image](https://github.com/user-attachments/assets/36962564-d34c-432b-8b29-31cbbe000d7f)    
+* Output:    
+  ![image](https://github.com/user-attachments/assets/7fc09576-a13b-4c1a-b7eb-0504b9d3a30e)     
 This step ensures consistency in the Income column for analysis.
 
 
