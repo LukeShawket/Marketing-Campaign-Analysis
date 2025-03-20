@@ -16,17 +16,17 @@ Identify duplicate entries in the dataset to ensure data accuracy.
 Results show any ID values that appear more than once.
 # Verify Data Integrity
 Check if the ID column contains any non-numeric characters, which might indicate errors.    
-* Input:
-  ![image](https://github.com/user-attachments/assets/aed8b494-e8b8-4cc6-9147-5be656c98c77)    
-* Output:
-  ![image](https://github.com/user-attachments/assets/14a89ccf-31be-4961-ba90-48b911792e0e)    
+* Input:    
+  ![image](https://github.com/user-attachments/assets/aed8b494-e8b8-4cc6-9147-5be656c98c77)     
+* Output:    
+  ![image](https://github.com/user-attachments/assets/14a89ccf-31be-4961-ba90-48b911792e0e)     
 This query highlights records where ID contains letters or special characters.
 # Identify Null Values
 Count rows where the Income field is missing data.    
-* Input:
-  ![image](https://github.com/user-attachments/assets/2044c016-20bb-471c-8299-3be4a3422582)    
-* Output:
-  ![image](https://github.com/user-attachments/assets/935b5c21-d305-43c2-b126-47ad7d8be0ba)
+* Input:    
+  ![image](https://github.com/user-attachments/assets/2044c016-20bb-471c-8299-3be4a3422582)     
+* Output:    
+  ![image](https://github.com/user-attachments/assets/935b5c21-d305-43c2-b126-47ad7d8be0ba)     
 This step ensures no critical fields are left incomplete.
 # Update Null Values
 Replace NULL values in the Income column with 0 to standardize the dataset.    
