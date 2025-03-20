@@ -1,6 +1,6 @@
 # Marketing-Campaign-Analysis
 This project demonstrates the data cleaning and data visualization process using SQL queries and tableau on a marketing_campaign dataset.    
-1. Explore the Data
+* 1. Explore the Data    
 The first step is to understand the structure and contents of the dataset.    
 Input:    
 sql    
