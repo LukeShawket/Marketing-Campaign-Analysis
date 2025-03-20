@@ -1,6 +1,6 @@
 # Marketing-Campaign-Analysis
 This project demonstrates the data cleaning and data visualization process using SQL queries and tableau on a marketing_campaign dataset.    
-[Dashboard Preview](https://public.tableau.com/app/profile/luke.shawket/viz/Marketing_Campaign_Analsys/Dashboard1)
+[Check out the Tableau Dashboard](https://public.tableau.com/app/profile/luke.shawket/viz/Marketing_Campaign_Analsys/Dashboard1)
 # Explore the Data    
 The first step is to understand the structure and contents of the dataset.    
 * Input:    
@@ -36,6 +36,12 @@ Replace NULL values in the Income column with 0 to standardize the dataset.
 * Output:    
   ![image](https://github.com/user-attachments/assets/7fc09576-a13b-4c1a-b7eb-0504b9d3a30e)     
 This step ensures consistency in the Income column for analysis.
+# Key Insights and Learnings
+* Duplicates can skew analysis, so identifying and addressing them is critical.
+
+* Verifying data integrity ensures that all IDs are correctly formatted.
+
+* Handling null values helps avoid disruptions during data visualization or further analysis.
 
 
 
